@@ -30,6 +30,5 @@ int main()
         cout << "Element is not present in the array"; 
     else
         cout << "Element found at position " << index; 
-  
     return 0; 
 }
